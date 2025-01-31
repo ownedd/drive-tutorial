@@ -48,7 +48,7 @@ export default function GoogleDriveClone() {
               variant="ghost"
               className="mr-2 text-gray-300 hover:text-white"
             >
-              My Drive
+              My Edgar Drive
             </Button>
             {getBreadcrumbs().map((folder, index) => (
               <div key={folder.id} className="flex items-center">
