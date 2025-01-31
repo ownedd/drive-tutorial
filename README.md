@@ -7,3 +7,4 @@
 - [ ] Add auth
 - [ ] Add file uploading
 - [ ] Other stuff
+- [ ] Add tests
